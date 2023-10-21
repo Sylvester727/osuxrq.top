@@ -22,7 +22,7 @@ lang: zh-CN
 - [232333](https://osu.ppy.sh/users/7945343) (2023/8/24)
 - [Marisaya](https://osu.ppy.sh/users/13354073) (2023/9/09)
 - [red__pig](https://osu.ppy.sh/users/15603359) (2023/10/02)
-
+- [Sylvester1](https://osu.ppy.sh/users/25454161) (2023/10/13)
 ## 出群后表现优异
 
 - [lolol233](https://osu.ppy.sh/users/11375105)：参与 OWC 选拔赛
